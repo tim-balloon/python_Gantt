@@ -98,7 +98,6 @@ deadline('2026-04-01','Start preparing flight')
 deadline('2028-09-01','End<br>of<br>Grant')
 
 
-
 #-- Dependencies --
 
 fig.update_yaxes(autorange="reversed") # otherwise tasks are listed from the bottom up
