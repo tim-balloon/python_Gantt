@@ -75,9 +75,9 @@ df = pd.DataFrame([
     dict(Task="Masking", Start='2025-04-01', Finish='2025-05-30', Resource="?", Label='Make Astrodeep mask'),
     dict(Task="Masking", Start='2025-09-01', Finish='2025-09-30', Resource="?", Label='Mask on repo'),
 
-    dict(Task="In-flight plan ready", Start='2026-03-01', Finish='2026-03-30', Resource="E,F,M", Label='Plan in repo'),
+    dict(Task="Calibration", Start='2025-07-01', Finish='2026-09-30', Resource="E,F,M", Label='Calibration strategy dev'),
+    dict(Task="Calibration", Start='2026-03-01', Finish='2026-03-30', Resource="E,F,M", Label='Plan in repo'),
 
-    
     dict(Task="Stacking", Start='2025-01-01', Finish='2025-02-28', Resource="S", Label='Paper publication'),
     dict(Task="Stacking", Start='2026-01-01', Finish='2026-03-30', Resource="S", Label='Pipeline on repo'),
     
